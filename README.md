@@ -11,3 +11,5 @@ The current HTML/CSS rendition is not fully polished, and NOT all intended inter
 
 by Jimin Choi 
 for cis 4120 - human computer interaction
+
+Extra sentence for page rebuild.
